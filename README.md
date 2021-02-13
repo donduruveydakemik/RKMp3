@@ -100,6 +100,7 @@ Ses seviyesi : {}
 
 
 mp3calar = Mp3Calar()
+
 while mp3calar.durum:
     mp3calar.calistir()
 
