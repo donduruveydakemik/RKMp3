@@ -3,7 +3,9 @@ import self as self
 from random import choice
 
 class Mp3Calar():
+
     def __init__(self, sarkiListesi=[]):
+    
         self.suanCalanSarki = " "
         self.ses = 100
         self.sarkiListesi = sarkiListesi
